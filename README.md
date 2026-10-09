@@ -1,16 +1,13 @@
-## Hi there 👋
+# Maycon Terto
 
-<!--
-**maycontertto/maycontertto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Fundador da Nexa Labs
 
-Here are some ideas to get you started:
+Construo software pra resolver problemas da rotina de comércios. Criador do Qerbie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Qerbie (qerbie.com): gestão pra comércios e serviços, com vendas, estoque e atendimento por QR Code
+- Telektro: plataforma pra gestão de recargas de veículos elétricos (em desenvolvimento)
+- NexaPorty: projeto Web3 com wallet e jogos
+
+Stack: Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind
+
+Aberto a oportunidades Full Stack no Brasil (remoto também) e a conversar com comerciantes sobre software de gestão.
